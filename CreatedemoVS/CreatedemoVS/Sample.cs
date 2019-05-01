@@ -8,6 +8,11 @@ namespace CreatedemoVS
 {
     class Sample
     {
-
+public int add()
+        {
+            int x = 10,y=20;
+            int sum = x + y;
+            return sum;
+        }
     }
 }
